@@ -13,3 +13,15 @@ Podemos aprender:
 * A obtener un conjunto de herramientas nuevas para estructurar y razonar sobre los programas
 * Aprender conceptos de programación funcional
 
+# ¿Qué es programación funcional?
+Puede verse como un estilo de programación donde el método básico de computación es la aplicaión de funciones  a argumentos.
+## Imperativo vs Funcional
+```python
+total = 0
+for i in range(1, n+1):
+	total += i
+```
+vs
+```haskell
+sum [1..n]
+```
