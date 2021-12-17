@@ -25,3 +25,9 @@ vs
 ```haskell
 sum [1..n]
 ```
+
+Los lenguajes de programación imperativos muchas veces soportan estas características pero no fomentan el uso de estilo funcional.
+
+### Muchos lenguajes no soportan:
+* almacenar funciones en listas
+* hacer funciones tomen funciones y retornen funciones
